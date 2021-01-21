@@ -1,10 +1,10 @@
 # Welcome to our Repo for the GitHub Research Systems Talk!!!
 
-##Problem statement
+## Problem statement
 <add a description> 
 
 
-##Team 
+## Team 
 @zaralogue, @jaredsb
 
 How to contribute
