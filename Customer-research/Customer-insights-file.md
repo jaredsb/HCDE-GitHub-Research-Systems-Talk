@@ -8,3 +8,9 @@ Please use Mark Down to format your quote. Here's [a guide](https://guides.githu
 
 > -Student X
 ---
+
+"Here's another quote"
+
+-Student Z
+
+---
