@@ -6,7 +6,7 @@ GitHub is commited to making the worlds best developer tools. To do this we need
 
 ## Team 
 | Role | Team member |
-| ---- | ---|
+| :---- | :--- |
 | Design | @jnstuart |
 | Engieering | @singerg22 | 
 | Research | @zaralogue, @jaredsb |
