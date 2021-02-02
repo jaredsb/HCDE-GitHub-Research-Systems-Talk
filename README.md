@@ -12,7 +12,8 @@ GitHub is commited to making the worlds best developer tools. To do this we need
 | Research | @zaralogue, @jaredsb |
 | Product Management | @cindyalvarez  |
 
-How to contribute
+## How to contribute
+
 Do you have a research quote or annecdote to contribute? Add it to [the discussion here](https://github.com/jaredsb/HCDE-GitHub-Research-Systems-Talk/discussions/9)
 
 
