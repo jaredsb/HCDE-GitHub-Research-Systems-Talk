@@ -10,9 +10,9 @@ GitHub is commited to making the worlds best developer tools. To do this we need
 | Design | @jnstuart |
 | Engieering | @singerg22 | 
 | Research | @zaralogue, @jaredsb |
-| Product Management |  |
+| Product Management | @cindyalvarez  |
 
 How to contribute
-Do you have a research quote or annecdote to contribute? File it here: 
+Do you have a research quote or annecdote to contribute? Add it to [the discussion here](https://github.com/jaredsb/HCDE-GitHub-Research-Systems-Talk/discussions/9)
 
 
